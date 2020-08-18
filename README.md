@@ -1,5 +1,19 @@
-### Hi there 👋
+## Hey, I'm Nikhil 👋
 
+I'm a software developer who loves making things. 
+
+<!--
+## Here are a few things I've made recently
+
+### Portfolio - [nikhilvijayan.com](https://www.nikhilvijayan.com/)
+
+Pineapple journal - [pineapplejournal.com](https://www.pineapplejournal.com/)
+Daily journaling web app build using React
+
+STTS - A CLI to look up HTTP statuses - [stts](https://github.com/nkhil/stts)
+a quick, completely offline reference for HTTP status codes.
+
+-->
 <!--
 **nkhil/nkhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
