@@ -1,8 +1,10 @@
+[![Hello.png](https://i.postimg.cc/9fLqCm0q/Hello.png)](https://postimg.cc/8FrCbVh1)
+<!--
 ## Hey, I'm Nikhil 👋
 
 I'm a software developer who loves making things. 
 
-<!--
+
 ## Here are a few things I've made recently
 
 ### Portfolio - [nikhilvijayan.com](https://www.nikhilvijayan.com/)
