@@ -1,5 +1,8 @@
-[![Hello.png](https://i.postimg.cc/9fLqCm0q/Hello.png)](https://postimg.cc/8FrCbVh1)
+[![Hello-1.png](https://i.postimg.cc/rmGk4JR6/Hello-1.png)](https://postimg.cc/DJzHk1c5)
+
 <!--
+[![Hello.png](https://i.postimg.cc/9fLqCm0q/Hello.png)](https://postimg.cc/8FrCbVh1)
+
 ## Hey, I'm Nikhil 👋
 
 I'm a software developer who loves making things. 
