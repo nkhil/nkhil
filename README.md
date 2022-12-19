@@ -9,4 +9,3 @@ Previously, I've worked at [comparethemarket.com](https://www.comparethemarket.c
 
 - Website: [nkhil.com](http://nkhil.com/)
 - Blog: [nkhilv.medium.com](https://nkhilv.medium.com/)
-- Twitter: [nkhil](https://twitter.com/nkhil)
